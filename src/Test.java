@@ -94,5 +94,8 @@ public class Test {
 
         }
 
+        System.out.println("Added a change");
+
     }
+
 }
